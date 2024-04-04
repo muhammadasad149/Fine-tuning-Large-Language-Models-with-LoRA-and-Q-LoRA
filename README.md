@@ -1,4 +1,4 @@
-### **fine-tuning of Large Language Models (LLMs)**
+### Fine-Tuning of Large Language Models (LLMs)
 
 This repository contains two Jupyter notebooks showcasing the fine-tuning of Large Language Models (LLMs) using custom datasets and two different techniques: LoRA and Q-LoRA. The notebooks are named:
 
